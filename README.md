@@ -1,1 +1,1 @@
-- create .env file with value: NEXT_PUBLIC_API_URL=http://localhost:3000
+- create .env file with value: NEXT_PUBLIC_API_URL=http://localhost:3000 (backend app)
